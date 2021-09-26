@@ -26,7 +26,6 @@ export default function Input({
       )}
       <input
         name={name}
-        type="text"
         onChange={onChange}
         type={type}
         className={[
